@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo2} className="App-logo" alt="logo" />
-        <p style={{backgroundColor: "DodgerBlue"}}>
+        <p style={{backgroundColor: "white"}}>
           Edit X<code>src/App.js</code> and save to reload.
         </p>
         <a
